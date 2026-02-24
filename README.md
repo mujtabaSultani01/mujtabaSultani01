@@ -1,5 +1,5 @@
 <h2 align="center">Asst.Prof. Mujtaba Sultani</h2>
-<h4 align="center">Lecturer at Kabul Polytechnic University (KPU), School of Computer Science</h4>
+<h4 align="left">Lecturer at Kabul Polytechnic University (KPU), School of Computer Science</h4>
 
 <p align="left">
 Asst. Prof. of Computer Science at Kabul Polytechnic University, specializing in Data Science, Machine Learning, and Natural Language Processing (NLP). 
