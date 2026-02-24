@@ -84,7 +84,7 @@ Open to academic and collaborative research projects.
 <br/><br/>
 
 <!-- ================= DATA SCIENCE ================= -->
-<strong>Data Science | Machine Learning | AI:</strong><br/>
+<strong>Data Science | Machine Learning | Deep Learning</strong><br/>
 
 <a href="https://numpy.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
