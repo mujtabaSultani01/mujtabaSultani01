@@ -18,7 +18,7 @@ Open to academic and collaborative research projects.
 <p align="left">
 
 <!-- ================= FRONTEND ================= -->
-<strong>Frontend Technologies:</strong><br/>
+<strong>Frontend Technologies</strong><br/>
 
 <a href="https://react.dev/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
@@ -39,7 +39,7 @@ Open to academic and collaborative research projects.
 <br/><br/>
 
 <!-- ================= BACKEND ================= -->
-<strong>Backend & Databases:</strong><br/>
+<strong>Backend & Databases</strong><br/>
 
 <a href="https://www.python.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -118,8 +118,8 @@ Open to academic and collaborative research projects.
 
 <p align="left">
 
-<a href="https://github.com/mujtabaSultani01">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" height="35"/>
+<a href="https://www.linkedin.com/in/msultani/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="35"/>
 </a>
 
 <a href="https://www.facebook.com/Mujtaba">
