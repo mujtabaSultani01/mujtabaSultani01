@@ -1,4 +1,4 @@
-<h2 align="center">Asst.Prof. Mujtaba Sultani</h2>
+<h2 align="left">Asst.Prof. Mujtaba Sultani</h2>
 <h4 align="left">Lecturer at Kabul Polytechnic University (KPU), School of Computer Science</h4>
 
 <p align="left">
