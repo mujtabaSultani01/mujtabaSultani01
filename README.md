@@ -1,14 +1,148 @@
-### Hi there 👋
+<h2 align="center">Asst.Prof. Mujtaba Sultani</h2>
+<h4 align="center">Lecturer at Kabul Polytechnic University (KPU), School of Computer Science</h4>
 
-I'm Mujtaba Sultani from Afghanistan, innovative full stack web developer and data analyst. Flexible within the working environment and able to adapt quickly and positively to challenging situations. I really enjoy and work hard for creating web apps and data analysis. I'm looking to collaborate on web apps and data analysis with my field buddies. You can reach me on mujtaba.cs01@kpu.edu.af
+<p align="left">
+Asst. Prof. of Computer Science at Kabul Polytechnic University, specializing in Data Science, Machine Learning, and Natural Language Processing (NLP). 
+My research interests include data mining, sentiment analysis, ontology processing, and applied machine learning. 
+Open to academic and collaborative research projects.
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
+📧 Contact: mujtaba.cs01@kpu.edu.af
+</p>
 
+---
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mujtabaSultani01&show_icons=true&theme=radical)
+<h3 align="left">Languages & Technologies</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mujtabaSultani01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mujtaba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mujtaba_hamtal/) [<img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/x.svg" alt="X" height="40" />](https://x.com/MujtabaSultani12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Mujtaba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://DBSGTA.edu.af)  
+<p align="left">
+
+<!-- ================= FRONTEND ================= -->
+<strong>Frontend Technologies:</strong><br/>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+</a>
+
+<a href="https://angular.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+</a>
+
+<a href="https://flutter.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+</a>
+
+<br/><br/>
+
+<!-- ================= BACKEND ================= -->
+<strong>Backend & Databases:</strong><br/>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+</a>
+
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+</a>
+
+<a href="https://laravel.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+</a>
+
+<a href="https://www.oracle.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+</a>
+
+<br/><br/>
+
+<!-- ================= DATA SCIENCE ================= -->
+<strong>Data Science | Machine Learning | AI:</strong><br/>
+
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+</a>
+
+</p>
+
+---
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mujtabaSultani01&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+<h3 align="left">Connect with Me</h3>
+
+<p align="left">
+
+<a href="https://github.com/mujtabaSultani01">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" height="35"/>
+</a>
+
+<a href="https://www.facebook.com/Mujtaba">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" height="35"/>
+</a>
+
+<a href="https://www.instagram.com/mujtaba_hamtal/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" height="35"/>
+</a>
+
+<a href="https://x.com/MujtabaSultani12">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/x.svg" height="35"/>
+</a>
+
+<a href="https://stackoverflow.com/users/Mujtaba">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/stackoverflow.svg" height="35"/>
+</a>
+
+<a href="https://DBSGTA.edu.af">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/googlechrome.svg" height="35"/>
+</a>
+
+</p>
 
 
 
